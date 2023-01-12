@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+.Names{
+  font-size: 77px;
+  color: #0ccac4;
+  font-family: 'bigelow rules';
+}
